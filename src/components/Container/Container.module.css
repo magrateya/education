@@ -1,0 +1,7 @@
+.section {
+  /* max-width: 75vw; */
+  display: flex;
+  padding: 10px 150px;
+  margin-left: auto;
+  margin-right: auto;
+}

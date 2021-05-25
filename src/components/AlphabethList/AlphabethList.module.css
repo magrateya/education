@@ -1,0 +1,23 @@
+.listBox {
+  max-width: 50%;
+  width: 100%;
+  /* margin-left: auto;
+  margin-right: auto; */
+}
+.list {
+  display: flex;
+  flex-wrap: nowrap;
+  overflow: auto;
+  overflow-x: scroll;
+}
+.listItem {
+  min-width: 200px;
+  width: 100%;
+}
+.radio {
+  display: flex;
+  flex-direction: column;
+}
+.activeEmployee {
+  color: #00bfff;
+}
